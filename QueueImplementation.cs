@@ -8,7 +8,7 @@ class Program
 	{
 		if(rear>1000)
 		{
-			Console.WriteLine("Limit Exceded");
+			Console.WriteLine("Limit Exceeded");
 		}
 		else
 		{
@@ -19,7 +19,7 @@ class Program
 	{
 		if(front==rear)
 		{
-			Console.WriteLine("Empty Queue");
+			Console.WriteLine("Empty Queue!!");
 		}
 		else
 		{
@@ -35,7 +35,7 @@ class Program
 	{
    if(front==rear+1)
    {
-   	Console.WriteLine("Empty Queue");
+   	Console.WriteLine("Empty Queue!!!");
    }
    else
    {
